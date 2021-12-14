@@ -4,7 +4,7 @@ describe("tests for payments.js", function () {
    });
    
    it('should do the thing', function() {
-
+    
    });
 
    afterEach(function () {
